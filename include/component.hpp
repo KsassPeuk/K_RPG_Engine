@@ -1,10 +1,10 @@
 #ifndef _COMPONENT
 #define _COMPONENT
 
-namespace KRE
-{
-    typedef unsigned int id_t;
+#include "kre_types.hpp"
 
+namespace kre
+{
     class Component{
     public:
         Component();

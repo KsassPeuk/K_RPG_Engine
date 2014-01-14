@@ -1,6 +1,6 @@
-#include "component.h"
+#include "component.hpp"
 
-namespace KRE{
+namespace kre{
     Component::Component(){
 
     }
